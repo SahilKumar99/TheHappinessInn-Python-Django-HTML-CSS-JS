@@ -14,13 +14,9 @@ BACKEND (Admin-Side):
 ![Screenshot (23)](https://user-images.githubusercontent.com/56352064/170868691-e6d2e010-4304-4055-aab0-d6ae86bc38bb.png)
 ![Screenshot (24)](https://user-images.githubusercontent.com/56352064/170868694-ebf83130-8f83-4596-963b-44bb3da8977e.png)
 
-
-
 DATABASE:
 
 ![Screenshot (25)](https://user-images.githubusercontent.com/56352064/170868723-1e09d4ba-60cf-43cb-ab87-33c96957fcd1.png)
-
-
 
 FRONTEND (User-Side):
 
